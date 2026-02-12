@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buddy's Blog</title>
+</head>
+<body>
+    <h1>🐍 Welcome to the Buddy Blog!</h1>
+    <a href="{{ url_for('new_post') }}">Create New Post</a>
+    <hr>
+    {% for post in posts %}
+        <div>
+            <h2>{{ post.title }}</h2>
+            <small>Posted on {{ post.date_posted.strftime('%Y-%m-%d') }}</small>
+            <p>{{ post.content }}</p>
+        </div>
+        <hr>
+    {% endfor %}
+</body>
+</html>

@@ -11,3 +11,4 @@ beautifulsoup4
 cryptography
 discord.py
 markdown2
+flask-sqlalchemy

@@ -44,7 +44,7 @@ It’s like learning a new sport:
 - `docs/`: All the "how-to" guides and **Interview Questions**!
 - `environments/`: The tools to keep your workspace clean.
 - `phases/`: Real code examples for every step of the way.
-- `projects/`: Hands-on mini-projects to build your portfolio.
+- `projects/`: Hands-on mini-projects and **Final Boss** challenges to build your portfolio.
 
 ## 🛠️ Let's Get Moving!
 
