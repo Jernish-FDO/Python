@@ -1,14 +1,29 @@
+# 🐍 Python Buddy-Guide Requirements
+# Install all with: pip install -r requirements.txt
+
+# --- Core Data Science ---
 numpy
 pandas
 matplotlib
+
+# --- Web Development ---
 requests
 flask
+flask-sqlalchemy
 fastapi
+uvicorn
+
+# --- Automation & Scraping ---
+beautifulsoup4
+discord.py
+markdown2
+
+# --- Security & Tooling ---
+cryptography
+python-dotenv
+pydantic
+
+# --- Testing & Code Quality ---
 pytest
 black
 flake8
-beautifulsoup4
-cryptography
-discord.py
-markdown2
-flask-sqlalchemy
