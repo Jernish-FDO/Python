@@ -41,9 +41,10 @@ It’s like learning a new sport:
 
 ## 📂 What's in the Box?
 
-- \`docs/\`: All the "how-to" guides you'll ever need.
-- \`environments/\`: The tools to keep your workspace clean.
-- \`phases/\`: Real code examples for every step of the way.
+- `docs/`: All the "how-to" guides and **Interview Questions**!
+- `environments/`: The tools to keep your workspace clean.
+- `phases/`: Real code examples for every step of the way.
+- `projects/`: Hands-on mini-projects to build your portfolio.
 
 ## 🛠️ Let's Get Moving!
 
