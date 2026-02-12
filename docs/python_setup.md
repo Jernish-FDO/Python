@@ -1,7 +1,8 @@
 # Python Setup Guide
 
 ## 1. Install Python
-Download and install the latest version of Python from [python.org](https://www.python.org/downloads/).
+For a quick start, see the [All Devices Setup Guide](all_devices_setup.md).
+Otherwise, download and install from [python.org](https://www.python.org/downloads/).
 
 ## 2. Text Editor / IDE
 Recommended: **Visual Studio Code (VS Code)**
