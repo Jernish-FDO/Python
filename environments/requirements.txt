@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+requests
+flask
+fastapi
+pytest
+black
+flake8
